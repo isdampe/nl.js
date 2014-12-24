@@ -26,7 +26,7 @@ This has only been tested on a Debian (Ubuntu) environment.
 ``` cd /tmp ```  
 ``` git clone https://github.com/isdampe/nl.js.git nljs-master```  
 ``` cd nljs-master ```  
-``` sudo install.sh ```  
+``` sudo sh install.sh ```  
 ``` cd /path/to/project ```  
 ``` nljs init ```  
 ``` vi nl.json ```  
