@@ -1,6 +1,6 @@
 {
   "name": "nl.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create a basic project json file, and then launch it with one command.",
   "main": "nl.js",
   "scripts": {
