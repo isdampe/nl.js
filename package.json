@@ -1,0 +1,28 @@
+{
+  "name": "nl.js",
+  "version": "0.1.0",
+  "description": "Create a basic project json file, and then launch it with one command.",
+  "main": "nl.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isdampe/nl.js.git"
+  },
+  "keywords": [
+    "Project",
+    "management",
+    "App",
+    "launcher",
+    "Web",
+    "development"
+  ],
+  "author": "Richard Denton <isdampe@gmail.com> (https://github.com/isdampe)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isdampe/nl.js/issues"
+  },
+  "dependencies": {
+    "fs": "*"
+  }
+}

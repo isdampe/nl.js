@@ -1,0 +1,10 @@
+{
+  "config": {
+    "bin": "/usr/bin"
+  },
+  "apps": {
+    "gimp": "~/public_html/artwork/file.psd",
+    "atom": "~/public_html/web",
+    "gnome-terminal": "--working-directory ~/public_html/web -x sh launchGruntSass.sh"
+  }
+}
