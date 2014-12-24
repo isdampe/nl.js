@@ -8,6 +8,8 @@
  * License: http://opensource.org/licenses/MIT
 */
 
+"use strict";
+
 //Basic requirements.
 var fs = require("fs");
 var childProcess = require("child_process");
